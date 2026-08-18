@@ -516,7 +516,8 @@ color:rgb(189,189,189);
     }
     .books{
         order:1;
-        padding:8em 2em 1em 2.5em;
+        padding:10em 2em 1em 2.5em;
+        font-weight:light;
     }
     .project-carousel{
         order:2;
