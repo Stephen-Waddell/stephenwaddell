@@ -497,6 +497,11 @@ color:rgb(189,189,189);
         overflow-y:auto;
     }
 
+    .photo-grid{
+        grid-template-columns:repeat(1,1fr);
+        gap:2.5em 1.5em;
+    }
+
 }
 
 @media(max-width:600px){
@@ -524,6 +529,7 @@ color:rgb(189,189,189);
         padding:0 2em 2em 2.5em;
     }
 
+    
 }
 
 @media(max-width:500px){
@@ -543,6 +549,7 @@ color:rgb(189,189,189);
         height:22px;
     }
 
+    
 }
 
 }
