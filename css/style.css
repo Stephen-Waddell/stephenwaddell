@@ -383,7 +383,7 @@ margin-bottom:20px;
 display:grid;
 grid-template-columns:repeat(4,1fr);
 gap:3em 1.5em;
-padding:10em 6em 4em;
+padding:10em 2.5em 4em;
 }
 
 .photo-grid figure{
