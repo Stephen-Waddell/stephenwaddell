@@ -404,6 +404,22 @@ margin-top:0.75em;
 color:rgb(189,189,189);
 }
 
+.about-page {
+    background-color: #eef8e0;
+}
+
+.about-text-bio {
+    color: #000000;
+}
+
+h3 {
+    color: #000000;
+}
+
+.gallery-link {
+    color: rgb(0, 134, 22);
+    text-decoration: none;
+}
 
 /* MEDIA QUERIES */
 
@@ -530,7 +546,7 @@ color:rgb(189,189,189);
         padding:0 2em 2em 2.5em;
     }
 
-    
+       
 }
 
 @media(max-width:500px){
